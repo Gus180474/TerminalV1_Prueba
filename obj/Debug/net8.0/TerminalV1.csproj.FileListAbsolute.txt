@@ -229,3 +229,4 @@ C:\Users\GUS\Desktop\Cursos extra\Pruebas_Terminal\TerminalV1\TerminalV1\Termina
 C:\Users\GUS\Desktop\Cursos extra\Pruebas_Terminal\TerminalV1\TerminalV1\TerminalV1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\GUS\Desktop\Cursos extra\Pruebas_Terminal\TerminalV1\TerminalV1\TerminalV1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\GUS\Desktop\Cursos extra\Pruebas_Terminal\TerminalV1\TerminalV1\TerminalV1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\GUS\Desktop\Cursos extra\Pruebas_Terminal\TerminalV1\TerminalV1\TerminalV1\obj\Debug\net8.0\TerminalV1.sourcelink.json
