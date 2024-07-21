@@ -1,1 +1,18 @@
 Program.cs
+# Ignorar archivos de compilación y binarios
+*.dll
+*.exe
+*.pdb
+# Ignorar archivos temporales y carpetas de caché
+obj/
+bin/
+.vs/
+# Ignorar archivos de configuración local
+appsettings.json
+web.config
+# Ignorar archivos de registro y copias de seguridad
+*.log
+*.bak
+# Ignorar archivos específicos de IDE
+.vscode/
+.idea/
